@@ -1,0 +1,8 @@
+com\baizhi\springboot\service\Impl\UserServiceImpl.class
+com\baizhi\springboot\service\UserService.class
+com\baizhi\springboot\Entrance.class
+com\baizhi\springboot\config\InterceptorConfig.class
+com\baizhi\springboot\dao\UserDao.class
+com\baizhi\springboot\util\AuthIterceptor.class
+com\baizhi\springboot\entity\User.class
+com\baizhi\springboot\aspect\LogAspect.class
